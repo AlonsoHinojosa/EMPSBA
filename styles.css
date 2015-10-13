@@ -1,0 +1,28 @@
+header {
+	overflow: hidden;
+	position: relative;
+}
+
+header h1 {
+	font-size: 1.2em;
+	font-weight: normal;
+	margin: 0 70px 0 0;
+}
+footer{
+	background: #B3A0A0;
+}
+
+#imagenesslash {
+	background: #CCE5FF;
+	width: 100%;
+	height: 50px;
+}
+
+#logo {
+	width: 200px;
+	height: 200px;
+}
+
+#imagen_logo {
+	width: 100%;
+}
